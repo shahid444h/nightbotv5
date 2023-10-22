@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nightbotv5/static/css/main.4fd29bb0.css",
+    "main.js": "/nightbotv5/static/js/main.47582274.js",
+    "static/js/787.81dc7098.chunk.js": "/nightbotv5/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/nightbotv5/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nightbotv5/index.html",
+    "main.4fd29bb0.css.map": "/nightbotv5/static/css/main.4fd29bb0.css.map",
+    "main.47582274.js.map": "/nightbotv5/static/js/main.47582274.js.map",
+    "787.81dc7098.chunk.js.map": "/nightbotv5/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fd29bb0.css",
+    "static/js/main.47582274.js"
+  ]
+}
